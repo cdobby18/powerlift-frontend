@@ -1,50 +1,17 @@
-# Welcome to your Expo app 👋
+# PowerLift Frontend 🚀
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is the **frontend** of the PowerLift thesis project, built with [Expo](https://expo.dev) and React Native. It provides a seamless, user-friendly interface for interacting with the PowerLift system on mobile devices.
 
-## Get started
+## Key Features
 
-1. Install dependencies
+- **Responsive Design:** Works smoothly on both Android and iOS devices.  
+- **Interactive UI:** Clean, intuitive interface for better user experience.  
+- **File-Based Routing:** Organized navigation for easy scalability and maintainability.  
+- **API Integration Ready:** Easily connects with backend services for real-time data.  
+- **Portfolio-Ready:** Demonstrates professional-level frontend development for a thesis project.  
 
-   ```bash
-   npm install
-   ```
+## Technologies Used
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Expo](https://expo.dev) – Cross-platform mobile development  
+- React Native – UI framework for building native apps  
+- Modern JavaScript & React Hooks for efficient state management  
